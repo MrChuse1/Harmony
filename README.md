@@ -25,4 +25,8 @@ Using Harmony should be straight forward, fill in the required file paths and hi
 ## Notes
  - Material textures are automatically combined to save on storage space.
  - You can genereate a text file with a list of models or textures that need to be extracted in the Tools menu.
+ - Models should be exported in the SEModel format.
 
+-----
+## Credits
+The SEModel library was created by [Scobabula](https://github.com/Scobalula).
