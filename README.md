@@ -9,7 +9,7 @@ These tools are required for certain functionalities:
  - [Greyhound](https://github.com/Scobalula/Greyhound) by Scobabula for extracting models and textures
  - [Husky](https://github.com/Scobalula/Husky) by Scobabula for extracting the map file and geometry from a map
 
-## Supported titles
+## Supported Titles
 - Black Ops III
 - Black Ops 4
 
